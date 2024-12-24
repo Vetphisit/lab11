@@ -13,4 +13,5 @@ int main(){
     srand(time(0));
     int a =rand()%9;
     cout<<"You will get "<<G[a]<<" in this 261102.";
+    return 0;
 }
